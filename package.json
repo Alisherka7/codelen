@@ -1,5 +1,9 @@
+"dependencies": {
+  "bootstrap": ">=4.3.1"
+}
 {
     "title": "Clean Blog",
+    
     "name": "startbootstrap-clean-blog",
     "version": "5.0.3",
     "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
